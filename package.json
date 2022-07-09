@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soulemanou-software/leaderboard.git"
+    "url": "git+https://github.com/edubew/Leaderboard.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/soulemanou-software/leaderboard/issues"
+    "url": "https://github.com/edubew/Leaderboard/issues"
   },
-  "homepage": "https://github.com/soulemanou-software/leaderboard#readme",
+  "homepage": "https://github.com/edubew/Leaderboard#readme",
   "devDependencies": {
     "@babel/core": "^7.18.6",
     "@babel/preset-env": "^7.18.6",
